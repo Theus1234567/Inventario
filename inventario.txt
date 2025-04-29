@@ -1,0 +1,7 @@
+Golden Apple|7|https://img.game8.co/3689278/7f351bbb5eab42e1b93fa508bc2ae214.png/show
+Fire Fruit|3|https://img.game8.co/3685828/e2bb739c882958ca828d378be4645d6e.png/show
+Fruit Fire|2|https://img.game8.co/3685728/e7e4b5d21485f7fbd409f03e8c193b22.png/show
+Shock Fruit|2|https://img.game8.co/3691699/2b3f5126bfd24f10416f48a3b7e43346.png/show
+Ice Fruit|4|https://img.game8.co/3686756/a4298c37c9c1a753ac039b370d113d8e.png/show
+Voltfriut|2|https://img.game8.co/3685886/931ababd0b7b51191478d43c13fe0b22.png/show
+Bomb Flower|3|https://img.game8.co/3685882/df1ef2c4de6ea71f44ae77b01bf65465.png/show
