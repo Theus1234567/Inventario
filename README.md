@@ -55,3 +55,17 @@ O layout segue uma organização em **linhas e colunas**, semelhante à grade de
 
 - **PHP**: Linguagem usada para processar as ações do inventário, como adicionar ou remover itens.
 - **Servidor Local (XAMPP/WAMP)**: Utilizado para rodar scripts PHP em ambiente local.
+
+## 3. Passo a Passo de Execução
+### Como executar o projeto
+- Faça o download da pasta MatheusINFO3:
+
+- Instale um servidor local como XAMPP ou WAMP.
+
+- Mova a pasta com os arquivos do projeto para a pasta htdocs (no caso do XAMPP).
+  C:\xampp\htdocs
+  
+- Inicie o servidor Apache no painel do XAMPP.
+
+- Acesse o projeto pelo navegador digitando:
+  localhost/MatheusINFO3/login.php
