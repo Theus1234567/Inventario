@@ -40,10 +40,9 @@ Essas ferramentas foram escolhidas por serem amplamente suportadas e ideais para
 
 A interface foi dividida em setores bem definidos:
 
-- Cabeçalho com o nome do jogo.
+- Login e Logout
 - Grade de inventário com ícones representando os itens.
-- Detalhes do item ao ser clicado.
-- Botões de ação como “adicionar”, “remover” e “detalhar”.
+- Itens que pode ser cadastrados.
 
 O layout segue uma organização em **linhas e colunas**, semelhante à grade de inventário dos jogos da franquia Zelda, tornando a navegação intuitiva.
 
@@ -55,6 +54,48 @@ O layout segue uma organização em **linhas e colunas**, semelhante à grade de
 
 - **PHP**: Linguagem usada para processar as ações do inventário, como adicionar ou remover itens.
 - **Servidor Local (XAMPP/WAMP)**: Utilizado para rodar scripts PHP em ambiente local.
+
+#### Um exemplo do código PHP com a lógica de registrar itens:
+<pre><code><?php
+        $file = "inventario.txt";
+
+        if (file_exists($file)) {
+            $items = file($file, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+
+            foreach ($items as $item) {
+                list($name, $quantity, $url) = explode("|", $item);
+                echo "<div class='item'>
+                        <img src='$url' alt='$name'>
+                        <h3>$name</h3>
+                        <p>Qtd: $quantity</p>
+                      </div>";
+            }
+        } else {
+            echo "<p>Nenhum item cadastrado ainda.</p>";
+        }
+        ?>
+</code></pre>
+<br>
+
+## Tela de login
+![pag-login](https://github.com/user-attachments/assets/766d0959-bd02-435b-b01f-6855bab3eabb)
+<br>
+
+### Usuário: User
+### Senha: User123
+
+## Página de login incorreto
+![pag-login-incorreto](https://github.com/user-attachments/assets/cbb98ae2-09fc-4cea-bb1a-f980918bf23d)
+<br>
+
+## Inventário do jogo
+![inventario](https://github.com/user-attachments/assets/db602167-aad0-45df-9329-242f7373fe2c)
+<br>
+
+# Cadastro de itens
+![add-item](https://github.com/user-attachments/assets/2279132a-b6ad-4cf4-869c-d8bf98174f53)
+<br>
+
 
 ## 3. Passo a Passo de Execução
 ### Como executar o projeto
@@ -72,4 +113,7 @@ O layout segue uma organização em **linhas e colunas**, semelhante à grade de
 
   <pre><code>localhost/MatheusINFO3/login.php</code></pre>
 
+Agora, é só divertir! 😊
+
+   
 > "Nada é impossível quando se dá o primeiro passo" - Matheus Gonçalves
