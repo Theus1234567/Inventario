@@ -70,6 +70,6 @@ O layout segue uma organização em **linhas e colunas**, semelhante à grade de
 
 - Acesse o projeto pelo navegador digitando:<br>
 
-  localhost/MatheusINFO3/login.php
+  <pre><code>localhost/MatheusINFO3/login.php</code></pre>
 
-> "Nada é impossível quando se dar o primeiro passo" - Matheus Gonçalves
+> "Nada é impossível quando se dá o primeiro passo" - Matheus Gonçalves
