@@ -55,8 +55,9 @@ O layout segue uma organização em **linhas e colunas**, semelhante à grade de
 - **PHP**: Linguagem usada para processar as ações do inventário, como adicionar ou remover itens.
 - **Servidor Local (XAMPP/WAMP)**: Utilizado para rodar scripts PHP em ambiente local.
 
-#### Um exemplo do código PHP com a lógica de registrar itens:
-<pre><code><?php
+#### Um exemplo do código PHP com a lógica de registrar itens:<br>
+
+``` <?php
         $file = "inventario.txt";
 
         if (file_exists($file)) {
@@ -74,7 +75,7 @@ O layout segue uma organização em **linhas e colunas**, semelhante à grade de
             echo "<p>Nenhum item cadastrado ainda.</p>";
         }
         ?>
-</code></pre>
+```
 <br>
 
 ## Tela de login
