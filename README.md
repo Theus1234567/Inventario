@@ -57,7 +57,8 @@ O layout segue uma organização em **linhas e colunas**, semelhante à grade de
 
 #### Um exemplo do código PHP com a lógica de registrar itens:<br>
 
-``` <?php
+```
+<?php
         $file = "inventario.txt";
 
         if (file_exists($file)) {
