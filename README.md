@@ -122,10 +122,9 @@ O layout segue uma organização em **linhas e colunas**, semelhante à grade de
 
 - A pasta sql 📂, está os arquivos .sql apra conexão com o banco de dados PhpMyAdmin
 - O arquivo "login.php", deve ser o primeiro arquivo a ser executado com o seguinte comando em um browser:
+  
   <pre><code>localhost/MatheusINFO3/login.php</code></pre>
-  <br>
 
 ### Agora, é só divertir! 😊
-
-   
+ 
 > "Nada é impossível quando se dá o primeiro passo" - Matheus Gonçalves
