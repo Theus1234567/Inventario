@@ -12,7 +12,7 @@ Um inventário é uma funcionalidade comum em jogos eletrônicos que permite ao 
 
 ### Que tipos de sistemas utilizam essa funcionalidade?
 
-Sistemas de inventário são amplamente utilizados em jogos de aventura, RPGs e jogos de sobrevivência. Exemplos:
+Sistemas de inventário são amplamente utilizados em sistemas de empresa com estoque, jogos de aventura, RPGs e jogos de sobrevivência. Exemplos:
 
 - *Minecraft*: itens de construção e criação.
 - *Mercado Livre*: aplicativos de venda online em geral que tenah estoque.
@@ -30,8 +30,8 @@ O inventário é essencial para a progressão do jogador no jogo. Ele permite o 
 
 #### 🛠️ Ferramentas Utilizadas
 
-- **HTML**: Estruturação do conteúdo da página.
-- **CSS**: Estilização visual e responsividade.
+- <img align="center" alt="Theus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">**HTML**: Estruturação do conteúdo da página.
+- <img align="center" alt="Theus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">**CSS**: Estilização visual e responsividade.
 - **Editor**: *[Seu editor preferido, ex: VS Code]* — utilizado para escrever e organizar o código.
 
 Essas ferramentas foram escolhidas por serem amplamente suportadas e ideais para construção rápida de interfaces web interativas e personalizadas.
@@ -94,7 +94,7 @@ O layout segue uma organização em **linhas e colunas**, semelhante à grade de
 ![inventario](https://github.com/user-attachments/assets/db602167-aad0-45df-9329-242f7373fe2c)
 <br>
 
-# Cadastro de itens
+## Cadastro de itens
 ![add-item](https://github.com/user-attachments/assets/2279132a-b6ad-4cf4-869c-d8bf98174f53)
 <br>
 
