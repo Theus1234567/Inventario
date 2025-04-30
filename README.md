@@ -63,9 +63,13 @@ O layout segue uma organização em **linhas e colunas**, semelhante à grade de
 - Instale um servidor local como XAMPP ou WAMP.
 
 - Mova a pasta com os arquivos do projeto para a pasta htdocs (no caso do XAMPP). <br>
-> C:\xampp\htdocs
+
+  <pre><code>C:\xampp\htdocs</code></pre>
   
 - Inicie o servidor Apache no painel do XAMPP.
 
 - Acesse o projeto pelo navegador digitando:<br>
-> localhost/MatheusINFO3/login.php
+
+  localhost/MatheusINFO3/login.php
+
+> "Nada é impossível quando se dar o primeiro passo" - Matheus Gonçalves
