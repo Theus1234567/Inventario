@@ -15,7 +15,7 @@ Um inventário é uma funcionalidade comum em jogos eletrônicos que permite ao 
 Sistemas de inventário são amplamente utilizados em jogos de aventura, RPGs e jogos de sobrevivência. Exemplos:
 
 - *Minecraft*: itens de construção e criação.
-- *The Witcher 3*: poções, armas, armaduras.
+- *Mercado Livre*: aplicativos de venda online em geral que tenah estoque.
 - *Skyrim*: inventário com peso limitado que impacta a mobilidade do personagem.
 
 ### Por que essa funcionalidade é importante?
@@ -62,10 +62,10 @@ O layout segue uma organização em **linhas e colunas**, semelhante à grade de
 
 - Instale um servidor local como XAMPP ou WAMP.
 
-- Mova a pasta com os arquivos do projeto para a pasta htdocs (no caso do XAMPP).
-  C:\xampp\htdocs
+- Mova a pasta com os arquivos do projeto para a pasta htdocs (no caso do XAMPP). <br>
+> C:\xampp\htdocs
   
 - Inicie o servidor Apache no painel do XAMPP.
 
-- Acesse o projeto pelo navegador digitando:
-  localhost/MatheusINFO3/login.php
+- Acesse o projeto pelo navegador digitando:<br>
+> localhost/MatheusINFO3/login.php
