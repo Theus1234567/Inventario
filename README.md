@@ -52,7 +52,7 @@ O layout segue uma organização em **linhas e colunas**, semelhante à grade de
 
 #### 🛠️ Ferramentas Utilizadas
 
-- **PHP**: Linguagem usada para processar as ações do inventário, como adicionar ou remover itens.
+- <img align="center" alt="Theus-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">**PHP**: Linguagem usada para processar as ações do inventário, como adicionar ou remover itens.
 - **Servidor Local (XAMPP/WAMP)**: Utilizado para rodar scripts PHP em ambiente local.
 
 #### Um exemplo do código PHP com a lógica de registrar itens:<br>
@@ -115,7 +115,17 @@ O layout segue uma organização em **linhas e colunas**, semelhante à grade de
 
   <pre><code>localhost/MatheusINFO3/login.php</code></pre>
 
-Agora, é só divertir! 😊
+## Explicação da hierarquia
+
+### Os arquivos da pasta são esses:
+![hierarquia](https://github.com/user-attachments/assets/6312993e-116b-46bc-bc2b-faaae0ba1400)
+
+- A pasta sql 📂, está os arquivos .sql apra conexão com o banco de dados PhpMyAdmin
+- O arquivo "login.php", deve ser o primeiro arquivo a ser executado com o seguinte comando em um browser:
+  <pre><code>localhost/MatheusINFO3/login.php</code></pre>
+  <br>
+
+### Agora, é só divertir! 😊
 
    
 > "Nada é impossível quando se dá o primeiro passo" - Matheus Gonçalves
