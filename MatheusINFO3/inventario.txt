@@ -5,3 +5,5 @@ Shock Fruit|2|https://img.game8.co/3691699/2b3f5126bfd24f10416f48a3b7e43346.png/
 Ice Fruit|4|https://img.game8.co/3686756/a4298c37c9c1a753ac039b370d113d8e.png/show
 Voltfriut|2|https://img.game8.co/3685886/931ababd0b7b51191478d43c13fe0b22.png/show
 Bomb Flower|3|https://img.game8.co/3685882/df1ef2c4de6ea71f44ae77b01bf65465.png/show
+Apple|2|https://img.game8.co/3685719/c67a64b3fec2fce295d9679cc2da0117.png/show
+Hydromelon|2|https://img.game8.co/3685884/8db42861f43347238fda7bc49d8839eb.png/show
